@@ -30,6 +30,7 @@ environment:
 dependencies:
   hive:
   hive_flutter:
+  flutter_bloc:
   font_awesome_flutter: ^10.7.0
   flutter:
     sdk: flutter
